@@ -9,3 +9,4 @@ outputs/final_rankings.json
 venv/ 
 .env/ 
 .DS_Store
+dataset/candidates.jsonl
