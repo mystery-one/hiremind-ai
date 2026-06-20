@@ -36,6 +36,15 @@ This project was developed as part of Kaggle’s **5-Day AI Agents: Intensive Vi
 
 ---
 
+#TECH STACK 
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-green)
+![AI Agents](https://img.shields.io/badge/Multi--Agent-AI-purple)
+
+---
+
 # 🧠 Multi-Agent Architecture
 
 The system uses multiple specialized AI agents:
@@ -185,8 +194,3 @@ Bapuji Institute of Engineering and Technology
 
 GitHub: https://github.com/mystery-one
 
-#TECH STACK 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-green)
-![AI Agents](https://img.shields.io/badge/Multi--Agent-AI-purple)
