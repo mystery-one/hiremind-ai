@@ -161,7 +161,7 @@ The project is deployable using:
 * Hugging Face Spaces
 * Local Deployment
 
-> ADD DEPLOYMENT LINK HERE
+https://hiremind-ai-2urv2vrwmtkthazthttg9q.streamlit.app/
 
 ---
 
@@ -176,12 +176,6 @@ The project is deployable using:
 
 ---
 
-# 🎥 Demo Video
-
-> ADD YOUTUBE VIDEO LINK HERE
-
----
-
 # 👩‍💻 Author
 
 **Prakruthi D Koppad**
@@ -191,8 +185,3 @@ Bapuji Institute of Engineering and Technology
 
 GitHub: https://github.com/mystery-one
 
----
-
-# 📜 License
-
-This project is intended for educational and demonstration purposes.
