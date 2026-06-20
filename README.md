@@ -17,13 +17,21 @@ This project was developed as part of Kaggle’s **5-Day AI Agents: Intensive Vi
 # 🚀 Features
 
 ✅ Semantic Resume Analysis
+
 ✅ AI-powered Candidate Ranking
+
 ✅ Multi-Agent Workflow Architecture
+
 ✅ FAISS Semantic Search
+
 ✅ Recruiter Insight Agent
+
 ✅ Recruiter Chat Assistant
+
 ✅ Interactive Streamlit Dashboard
+
 ✅ MCP-style Tool Communication
+
 ✅ Explainable AI-based Candidate Evaluation
 
 ---
@@ -46,7 +54,6 @@ The system uses multiple specialized AI agents:
 
 ## Architecture Diagram
 
-> ADD ARCHITECTURE DIAGRAM IMAGE HERE
 
 <img width="1136" height="764" alt="diagram-export-6-20-2026-2_30_20-PM" src="https://github.com/user-attachments/assets/d7d1db99-0d27-4d0a-b3be-21aeecebfa9a" />
 
@@ -55,30 +62,24 @@ The system uses multiple specialized AI agents:
 
 ## Main Dashboard
 
-> ADD DASHBOARD SCREENSHOT HERE
 
----<img width="1893" height="901" alt="Screenshot 2026-06-20 143144" src="https://github.com/user-attachments/assets/e5310ee7-21e5-49a9-9569-50e65a885f66" />
+
+<img width="1893" height="901" alt="Screenshot 2026-06-20 143144" src="https://github.com/user-attachments/assets/e5310ee7-21e5-49a9-9569-50e65a885f66" />
 
 
 ## Candidate Rankings
 
-> ADD RANKING SCREENSHOT HERE
-
----<img width="1446" height="812" alt="Screenshot 2026-06-20 143238" src="https://github.com/user-attachments/assets/fd06809f-773f-4d78-b314-a9d70e94b0f7" />
+<img width="1446" height="812" alt="Screenshot 2026-06-20 143238" src="https://github.com/user-attachments/assets/fd06809f-773f-4d78-b314-a9d70e94b0f7" />
 
 
 ## Recruiter Insight Agent
 
-> ADD INSIGHT SCREENSHOT HERE
-
----<img width="1877" height="857" alt="Screenshot 2026-06-20 143251" src="https://github.com/user-attachments/assets/ff7c2a85-7d08-4b11-a752-62f709ca3508" />
+<img width="1877" height="857" alt="Screenshot 2026-06-20 143251" src="https://github.com/user-attachments/assets/ff7c2a85-7d08-4b11-a752-62f709ca3508" />
 
 
 ## Analytics Dashboard
 
-> ADD ANALYTICS SCREENSHOT HERE
-
----<img width="1902" height="883" alt="Screenshot 2026-06-20 143305" src="https://github.com/user-attachments/assets/5c6e180d-9721-420f-8af4-12036a3fe925" />
+<img width="1902" height="883" alt="Screenshot 2026-06-20 143305" src="https://github.com/user-attachments/assets/5c6e180d-9721-420f-8af4-12036a3fe925" />
 
 
 # ⚙ Technologies Used
