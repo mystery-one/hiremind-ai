@@ -54,8 +54,7 @@ The system uses multiple specialized AI agents:
 
 ## Architecture Diagram
 
-
-<img width="1136" height="764" alt="diagram-export-6-20-2026-2_30_20-PM" src="https://github.com/user-attachments/assets/d7d1db99-0d27-4d0a-b3be-21aeecebfa9a" />
+<img width="1136" height="685" alt="diagram-export-6-20-2026-2_30_20-PM" src="https://github.com/user-attachments/assets/91631604-f791-4277-8d2f-b107502d1b44" />
 
 
 # 📊 Dashboard Preview
