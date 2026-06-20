@@ -1,26 +1,6 @@
-from sentence_transformers import (
-    SentenceTransformer
-)
+from sentence_transformers import SentenceTransformer
 
-from config import MODEL_NAME
+model = SentenceTransformer('all-MiniLM-L6-v2')
 
-model = SentenceTransformer(
-    MODEL_NAME
-)
-
-from sentence_transformers import ( 
-    SentenceTransformer
-)
-
-from config import MODEL_NAME 
-model = SentenceTransformer( 
-    MODEL_NAME 
-)
-
-def generate_embedding(texts): 
-    return model.encode( 
-        texts,
-        batch_size=64,
-        show_progress_bar=True,
-        convert_to_numpy=True 
-        )
+def generate_embedding(text):
+    return model.encode(text)

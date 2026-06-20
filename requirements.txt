@@ -1,9 +1,9 @@
 # requirements.txt
 
-pandas
-numpy
+streamlit
 sentence-transformers
 faiss-cpu
+numpy
+pandas
 scikit-learn
-python-docx
-tqdm
+python-dotenv
