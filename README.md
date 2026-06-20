@@ -50,6 +50,11 @@ The system uses multiple specialized AI agents:
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-green)
+![AI Agents](https://img.shields.io/badge/Multi--Agent-AI-purple)
+
 # 🏗 System Architecture
 
 ## Architecture Diagram
